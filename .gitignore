@@ -1,0 +1,7 @@
+# 올리는 것은 docs/ (암호화본과 robots.txt)뿐. 나머지는 전부 PC에만 둔다.
+/*
+!/.gitignore
+!/docs/
+/docs/*
+!/docs/index.html
+!/docs/robots.txt
